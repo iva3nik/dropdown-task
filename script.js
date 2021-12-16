@@ -47,7 +47,7 @@ class Dropdown {
 const dropdown = new Dropdown('#dropdown', {
   items: [
     {label: 'Moscow', id: 'msk'},
-    {label: 'Sanct-Peterburg', id: 'spb'},
+    {label: 'Saint-Peterburg', id: 'spb'},
     {label: 'Novosibirsk', id: 'nsk'},
     {label: 'Krasnodar', id: 'krdr'},
   ]
